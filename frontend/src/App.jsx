@@ -1,9 +1,7 @@
 function App() {
   return (
     <>
-      <div>
-        happy diwali
-      </div>
+      <div>Hello swadeep!</div>
     </>
   );
 }
