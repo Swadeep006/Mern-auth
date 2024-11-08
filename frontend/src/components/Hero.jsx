@@ -3,7 +3,9 @@ function Hero() {
     <>
       <div className="flex items-center flex-col border-2 border-gray-900 justify-center gap-4 p-4 bg-orange-50 mx-10 lg:mx-64 md:mx-48 sm:mx-28  mt-10 rounded-md">
         <div className="text-3xl text-blue-500 font-bold">
-          <h1>Mern Authentication</h1>
+          <a href="/">
+            <h1>Mern Authentication</h1>
+          </a>
         </div>
         <div>
           <p>
